@@ -84,6 +84,13 @@ Main objective of acceptance testing is to evaluate whether the software complie
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative AI model.
 
+- It ensures that AI models produce accurate and relevant outputs. It's the art of crafting effective prompts that guide the model's behavior, ensuring effective human-AI communication.
+- Furthermore, prompt engineering plays a role in software development by using AI models to generate code snippets or provide solutions to programming challenges. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague prompt: How much do Kenyans earn? 
+Improved prompt: What is the per capita income of Kenya? 
+
+The improved version is more effective because it uses a standard and globally accepted method or approach to estimate the income of an average person in Kenya. The first prompt is ambiguous in that it does not specify the exact category of the population whose remuneration is of interest. 
