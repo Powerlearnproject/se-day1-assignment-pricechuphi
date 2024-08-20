@@ -28,7 +28,7 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 
 Agile and Waterfall are two well-known project management methodologies. 
 Both of them are popular in software development but each is best suited for different types of projects. 
-The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+The main difference, is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
 Waterfall is better suited for projects with regulations or requirements because each phase’s deliverables and strict procedures ensure that they are met. For instance, the Department of Defense and the aerospace industry are a couple of industries that would more likely use Waterfall over Agile, since the requirements are a safety factor. 
 Agile is better suited for projects where stakeholders are closely involved every step of the way, and is mostly used in IT companies. 
 
