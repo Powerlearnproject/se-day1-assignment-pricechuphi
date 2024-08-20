@@ -26,12 +26,31 @@ functional requirements.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Agile and Waterfall are two well-known project management methodologies. 
+Both of them are popular in software development but each is best suited for different types of projects. 
+The main difference is that Waterfall is a linear system of working that requires the team to complete each project phase before moving on to the next one while Agile encourages the team to work simultaneously on different phases of the project.
+Waterfall is better suited for projects with regulations or requirements because each phase’s deliverables and strict procedures ensure that they are met. For instance, the Department of Defense and the aerospace industry are a couple of industries that would more likely use Waterfall over Agile, since the requirements are a safety factor. 
+Agile is better suited for projects where stakeholders are closely involved every step of the way, and is mostly used in IT companies. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+A software developer is responsible for developing software programs or systems that align with user needs. 
+Responsibiliies: 
+Design, test and develop the software to meet user needs
+Recommend upgrades for existing systems and programs
+Develop separate elements of a software that work well in the program as a whole
+
+A quality assurance engineer ensures that the software passes all checks before its release to the public. They oversee every phase of design, development, testing and delivery to verify if the product meets the quality standards and requirements, and they work with a team and report to a manager.
+
+A project manager in software development is a crucial role responsible for overseeing the planning, execution and delivery of software projects. They align project objectives with business goals, manage resources and mitigate risks.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+An integrated development environment (IDE) helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application.
+Examples of IDEs include NetBeans, Eclipse, IntelliJ, and Visual Studio. 
+
+Version Control Systems are crucial in software development as they efficiently manages and tracks changes to code over time, facilitating team collaboration and project progress tracking.
+Bazaar, Mercurial, Git, and Darcs stand out as the most notable examples of VCS softwares.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
